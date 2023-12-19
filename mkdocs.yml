@@ -1,0 +1,11 @@
+site_name: Salix's
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.top
+
+markdown_extensions:
+  - tables
+  - attr_list
+  - md_in_html
